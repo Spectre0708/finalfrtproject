@@ -1,5 +1,13 @@
 ## This is my Final FRT project
-this is my final frt project
+this is my final frt project. 
+**Problem Statement:**
+
+There is a gap between reliable medical information and accessible healthcare services online, leading to confusion for patients and challenges for healthcare providers.
+
+**Opportunity:**
+
+Create a comprehensive medical care website with accurate medical information, seamless doctor-patient connections, online appointment scheduling, telemedicine services, health records management, health and wellness resources, and a supportive online community. This platform will bridge the gap, offering a user-friendly experience for patients and healthcare professionals, revolutionizing healthcare accessibility and quality.
+
 # azure link https://victorious-water-0ec948e10.3.azurestaticapps.net
 ## home  page
 ![Screenshot (342)](https://github.com/Spectre0708/finalfrtproject/assets/124916739/dbf0e62f-6f24-4197-8965-99d848c75813)
