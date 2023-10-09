@@ -1,10 +1,8 @@
 # This is my Final FRT project
 this is my final frt project. 
- ## **Problem Statement:**
+ ##
 
 There is a gap between reliable medical information and accessible healthcare services online, leading to confusion for patients and challenges for healthcare providers.
-
-**Opportunity:**
 
 Create a comprehensive medical care website with accurate medical information, seamless doctor-patient connections, online appointment scheduling, telemedicine services, health records management, health and wellness resources, and a supportive online community. This platform will bridge the gap, offering a user-friendly experience for patients and healthcare professionals, revolutionizing healthcare accessibility and quality.
 
